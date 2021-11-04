@@ -1,6 +1,10 @@
 # Link to site
 https://react-netflix-clone-cc9b0.web.app/
 
+# Description
+Constructed a react based version of Netflix, making an API call from TMDB to retrieve movie trailers. The application was created using React for functionality and CSS to style the application as a Netflix clone. Libraries I used included react-youtube for retrieving the YouTube videos, Axios for creating external HTTP requests, and Firebase. Hosted on Firebase and can be accessed from the link above.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
